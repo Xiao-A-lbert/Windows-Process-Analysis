@@ -1,7 +1,7 @@
 # Windows Process Analysis
 
 <h2>Description</h2>
-In this task, I used windows cmd tools like net view, net session, net use, netstat, and tcpview to analyze running processes on my windows vm.    
+In this task, I used windows command line commands to analyst processes occuring on my windows VM when a reverse tcp shell and a powershell script are executed. Commandlines used include filtering with tasklist, filtering with wmix, and printing with netstat.
 
 
 <h2>Languages and Utilities Used</h2>
