@@ -43,7 +43,7 @@ processid: The Process ID (which will be 2200 in this case). "| find "5964"" fil
 ![4) wmic tracing notmalware pid to parentid of cmd](https://github.com/user-attachments/assets/3e4788de-cd63-44ed-a078-974c81cc13e3)
 
 <br />
-<br 
+<br />
 This uses wmic to get the commandline used for processid=2200 (notmalware.exe). In this instance, I just ran it on the commandline to execute.
 
 ![5) wmic commandline used to run pid](https://github.com/user-attachments/assets/1ecadf27-f4f3-4714-a5b4-044dcd056747)
